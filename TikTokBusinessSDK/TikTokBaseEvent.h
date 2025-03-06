@@ -1,5 +1,3 @@
-../../TikTokBaseEvent.h
-
 //
 //  TikTokBaseEvent.h
 //  TikTokBusinessSDK
