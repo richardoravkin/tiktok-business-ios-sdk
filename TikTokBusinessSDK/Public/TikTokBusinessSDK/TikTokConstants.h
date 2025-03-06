@@ -1,1 +1,1 @@
-../../TikTokConstants.h
+#import "../../TikTokConstants.h"

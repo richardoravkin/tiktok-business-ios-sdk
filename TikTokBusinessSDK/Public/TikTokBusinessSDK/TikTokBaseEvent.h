@@ -1,1 +1,1 @@
-../../TikTokBaseEvent.h
+#import "../../TikTokBaseEvent.h"

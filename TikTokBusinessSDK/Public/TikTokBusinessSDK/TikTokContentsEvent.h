@@ -1,1 +1,1 @@
-../../TikTokContentsEvent.h
+#import "../../TikTokContentsEvent.h"
