@@ -1,3 +1,4 @@
+../../TikTokConstants.h
 //
 //  TikTokEventConstants.h
 //  TikTokBusinessSDK
